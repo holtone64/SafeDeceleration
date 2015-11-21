@@ -1,0 +1,2 @@
+# SafeDeceleration
+Systems like Progressive's Snapshot and Allstate's Drivewise can potentially save you money, but do you really want to have to send out for a device to plug into your OEM port for 30 days just to see whether you will get a discount? Check the rate and frequency of your "hard brakes" with this application to get a better idea of whether you will be receiving discounts before you have to install any potentially unwanted hardware on your car. 
