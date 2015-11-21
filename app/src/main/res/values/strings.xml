@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Safe Deceleration</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start Recording</string>
+    <string name="stop">Stop Recording</string>
+    <string name="reset">Reset Data</string>
+    <string name="base_deceleration_value">0.0</string>
+    <string name="warning">Remember to wait until your mobile device is stationary within your vehicle
+    before starting or stopping a recording session in order to avoid accidentally triggering the "unsafe driver"
+    flag</string>
+    <string name="decelerometer_explained">The value of your hardest break during your driving session:</string>
+</resources>
